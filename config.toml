@@ -1,6 +1,6 @@
 baseURL = "https://krithikajayaraman.github.io/blog/"
 languageCode = "en-us"
-title = "Hello there! I'm Krithika. Welcome to my blog!"
+title = "Hello there! Welcome to my blog! "
 theme = "kiss"
 disqusShortname = "shortname"
 googleAnalytics = ""
